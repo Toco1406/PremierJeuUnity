@@ -1,0 +1,8 @@
+# Ignorer les fichiers temporaires
+*Assembly-Csharp
+*Jeu2D.sln
+
+# Ignorer les fichiers de compilation
+*Logs
+*Library
+*.vscode
